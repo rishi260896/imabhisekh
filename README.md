@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @imabhisekh
-- 👀 I’m interested in cloud computing and devops
-- 🌱 I’m currently learning devopstools
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Abhisekh Tembhare
+-    I’m a cloud engineer.
 - 📫 How to reach me instahandle @imabhisekh
 
 <!---
