@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhisekh Tembhare
--    I’m a cloud engineer.
+-    I’m a DevOps engineer.
 - 📫 How to reach me instahandle @imabhisekh
 
 <!---
