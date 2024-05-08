@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhisekh Tembhare
--    I’m a DevOps engineer.
+-    I’m a DevOps engineer at Aidetic.
 - 📫 How to reach me instahandle @imabhisekh
 
 <!---
